@@ -1,4 +1,4 @@
-# ROADMAP TO AI: FROM ZERO TO HERO BY EJAZTECH.AI
+# ROADMAP TO AI: FROM ZERO TO HERO 
 ![EJAZTECH AI 2](https://github.com/user-attachments/assets/70f487c4-d9f9-4d23-b06b-dd81cbbb7536)
 
 
@@ -396,18 +396,10 @@ To further enhance your learning, here are some additional resources:
 1. Watch the introductory videos linked above.
 2. Enroll in the courses sequentially as listed to build a strong foundation.
 3. Apply the concepts you learn by working on real-world projects and sharing your progress.
-5. Join coding challenges and competitions on platforms like Kaggle or DrivenData.
+5. Join coding challenges and competitions on platforms like Kaggle.
 
 ---
 
-
----
-
-## 🤝 Join the Community
-We encourage learners to collaborate, ask questions, and share their progress. Stay connected with our growing community of AI enthusiasts:
-
-- Follow us on [LinkedIn](https://www.linkedin.com/company/ejaztech-ai/?viewAsMember=true) for updates.
-- Participate in our monthly Q&A sessions and webinars.
 
 ---
 
@@ -433,5 +425,20 @@ If you have any questions or need guidance, feel free to reach out:
 
 - [Email](mailto:ejaztech.ai@gmail.com)
 - [LinkedIn](https://www.linkedin.com/company/ejaztech-ai/?viewAsMember=true)
+- [Kaggle](https://www.kaggle.com/organizations/ejaztechai)
+
+
+---
+
+We’re here to support you on your AI journey!
+
+## 🙏 Acknowledgments
+We would like to express our heartfelt gratitude to **Mosh Hamedani**, the creator of the Python Basics course, for his exceptional teaching style and dedication to empowering learners worldwide. His contributions have made learning Python accessible and engaging for beginners.
+
+A special thanks also to **Andrew NG**, the creator of the remaining four courses under his company **deeplearning.ai**. Andrew's pioneering work in AI education has inspired countless learners to embark on their journey into Artificial Intelligence and Machine Learning. His courses continue to set the gold standard for AI education.
+
+Thank you both for your invaluable contributions to the AI community!
+
+
 
 We’re here to support you on your AI journey!
