@@ -439,6 +439,4 @@ A special thanks also to **Andrew NG**, the creator of the remaining four course
 
 Thank you both for your invaluable contributions to the AI community!
 
-
-
-We’re here to support you on your AI journey!
+---
